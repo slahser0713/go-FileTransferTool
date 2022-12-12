@@ -3,4 +3,4 @@ node_modules
 dist-ssr
 *.local
 main.exe
-launch.json
+
